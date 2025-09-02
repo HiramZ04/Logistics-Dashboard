@@ -36,28 +36,17 @@ This dashboard provided **tangible impact** to logistics operations:
 
 <p align="left">
   <!-- Visualización -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/DATA%20VISUALIZATION-7B61FF?style=for-the-badge&labelColor=3b2ecc&logo=powerbi&logoColor=white" alt="Data Visualization">
-  </a>
+  <img src="https://img.shields.io/badge/DATA%20VISUALIZATION-7B61FF?style=for-the-badge&labelColor=3b2ecc&logo=powerbi&logoColor=white" alt="Data Visualization">
   <!-- Data Modeling -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/DATA%20MODELING-FF7A59?style=for-the-badge&labelColor=B84E2F" alt="Data Modeling">
-  </a>
+  <img src="https://img.shields.io/badge/DATA%20MODELING-FF7A59?style=for-the-badge&labelColor=B84E2F" alt="Data Modeling">
   <!-- DAX + Power Query -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/DAX%20%2B%20POWER%20QUERY-F2C811?style=for-the-badge&labelColor=C7A300&logo=powerbi&logoColor=black" alt="DAX + Power Query">
-  </a>
+  <img src="https://img.shields.io/badge/DAX%20%2B%20POWER%20QUERY-F2C811?style=for-the-badge&labelColor=C7A300&logo=powerbi&logoColor=black" alt="DAX + Power Query">
   <!-- SharePoint / Graph -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/SHAREPOINT%20%2F%20GRAPH-0078D4?style=for-the-badge&labelColor=005EA6&logo=microsoftsharepoint&logoColor=white" alt="SharePoint / Graph">
-  </a>
+  <img src="https://img.shields.io/badge/SHAREPOINT%20%2F%20GRAPH-0078D4?style=for-the-badge&labelColor=005EA6&logo=microsoftsharepoint&logoColor=white" alt="SharePoint / Graph">
   <!-- Python Automation -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/PYTHON%20AUTOMATION-3776AB?style=for-the-badge&labelColor=244A78&logo=python&logoColor=white" alt="Python Automation">
-  </a>
+  <img src="https://img.shields.io/badge/PYTHON%20AUTOMATION-3776AB?style=for-the-badge&labelColor=244A78&logo=python&logoColor=white" alt="Python Automation">
 </p>
 
----
 
 ## 📑 Tabs Documented
 
