@@ -14,4 +14,11 @@ By linking storage trends to sales performance and customer activity, this tab h
 
 [![Watch the video](/Dashboard%20Screenshots/Pallet%20Usage%20Tab%20Screenshot.png)](https://youtu.be/SXEyqJTE2Fo)
 
+---
+
+<p align="center">
+  <a href="/README.md">
+    <img src="https://img.shields.io/badge/⬅️%20Back%20to%20README-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Back to README">
+  </a>
+</p>
 

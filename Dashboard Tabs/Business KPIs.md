@@ -18,4 +18,10 @@ This tab ensures SLA adherence, protects profitability, and enables fast decisio
 
 [![Watch the video](/Dashboard%20Screenshots/Business%20KPIs%20Tab%20Screenshot.png)](https://youtu.be/FTNQjMHFVyg)
 
+---
 
+<p align="center">
+  <a href="/README.md">
+    <img src="https://img.shields.io/badge/⬅️%20Back%20to%20README-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Back to README">
+  </a>
+</p>

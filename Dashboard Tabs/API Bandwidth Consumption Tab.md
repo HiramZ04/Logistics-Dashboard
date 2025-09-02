@@ -13,4 +13,10 @@ By understanding and managing bandwidth usage, this tab directly supports cost s
 
 [![Watch the video](/Dashboard%20Screenshots/API%20Bandwidth%20Tab%20Screenshot.png)](https://youtu.be/0fhfkhEoZoY)
 
+---
 
+<p align="center">
+  <a href="/README.md">
+    <img src="https://img.shields.io/badge/⬅️%20Back%20to%20README-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Back to README">
+  </a>
+</p>

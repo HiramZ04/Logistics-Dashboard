@@ -15,4 +15,11 @@ From a technical perspective, this dashboard overcame the challenge of merging t
 
 [![Watch the video](/Dashboard%20Screenshots/Orders%20Shipped%20Tab%20Screenshot.png)](https://youtu.be/_GKGZqYdJ_0)
 
+---
+
+<p align="center">
+  <a href="/README.md">
+    <img src="https://img.shields.io/badge/⬅️%20Back%20to%20README-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Back to README">
+  </a>
+</p>
 

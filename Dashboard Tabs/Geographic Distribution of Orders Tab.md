@@ -11,3 +11,11 @@ This tab gives a clear geographic view of where orders are shipped, helping opti
 ## 🎥 Demo (YouTube) - Geographic Distribution of Orders
 
 [![Watch the video](/Dashboard%20Screenshots/Map%20Orders%20Tab%20Screenshot.png)](https://youtu.be/7fx8Pbv1esQ)
+
+---
+
+<p align="center">
+  <a href="/README.md">
+    <img src="https://img.shields.io/badge/⬅️%20Back%20to%20README-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Back to README">
+  </a>
+</p>

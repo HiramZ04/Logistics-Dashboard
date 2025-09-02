@@ -16,3 +16,11 @@ By visualizing and tracking these metrics, warehouse leadership can quickly iden
 ## 🎥 Demo (YouTube) - Inbound Shipments 
 
 [![Watch the video](/Dashboard%20Screenshots/Inbound%20Shipments%20Tab%20Screenshot.png)](https://youtu.be/64LB46cPRTQ)
+
+---
+
+<p align="center">
+  <a href="/README.md">
+    <img src="https://img.shields.io/badge/⬅️%20Back%20to%20README-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Back to README">
+  </a>
+</p>
