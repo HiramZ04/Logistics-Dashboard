@@ -13,5 +13,14 @@ On the technical side, the realization of this dashboard was a lot of cleaning d
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=powerautomate&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
+## 📑 Tabs Documented
+- [Geographic Distribution of Orders](Dashboard%20Tabs/Geographic%20Distribution%20of%20Orders%20Tab.md)
+- [Inbound Shipments](Dashboard%20Tabs/Inbound%20Shipments%20Tab.md)
+- [Shipped Orders Processed](Dashboard%20Tabs/Shipped%20Orders%20Processed%20Tab.md)
+- [Pallet Usage](Dashboard%20Tabs/Pallet%20Usage%20Tab.md)
+- [Business KPIs](Dashboard%20Tabs/Business%20KPIs.md)
+- [API Bandwidth Consumption](Dashboard%20Tabs/API%20Bandwidth%20Consumption%20Tab.md)
+
+
 
 
