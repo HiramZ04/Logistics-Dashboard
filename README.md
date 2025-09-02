@@ -23,16 +23,38 @@ This dashboard provided **tangible impact** to logistics operations:
 - 🗺️ **Geographic Insights** → Displayed order distribution by state to optimize carrier selection and route planning.  
 
 ---
-
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" width="40" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="40" title="Excel"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsharepoint.svg" width="40" title="SharePoint"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerapps.svg" width="40" title="Power Apps"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" width="40" title="Power Automate"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white&style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?logo=microsoftsharepoint&logoColor=white&style=for-the-badge)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?logo=powerapps&logoColor=white&style=for-the-badge)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=powerautomate&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+## 💡 Skills Demonstrated
+
+<p align="left">
+  <!-- Visualización -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/DATA%20VISUALIZATION-7B61FF?style=for-the-badge&labelColor=3b2ecc&logo=powerbi&logoColor=white" alt="Data Visualization">
+  </a>
+  <!-- Data Modeling -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/DATA%20MODELING-FF7A59?style=for-the-badge&labelColor=B84E2F" alt="Data Modeling">
+  </a>
+  <!-- DAX + Power Query -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/DAX%20%2B%20POWER%20QUERY-F2C811?style=for-the-badge&labelColor=C7A300&logo=powerbi&logoColor=black" alt="DAX + Power Query">
+  </a>
+  <!-- SharePoint / Graph -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/SHAREPOINT%20%2F%20GRAPH-0078D4?style=for-the-badge&labelColor=005EA6&logo=microsoftsharepoint&logoColor=white" alt="SharePoint / Graph">
+  </a>
+  <!-- Python Automation -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/PYTHON%20AUTOMATION-3776AB?style=for-the-badge&labelColor=244A78&logo=python&logoColor=white" alt="Python Automation">
+  </a>
 </p>
 
 ---
