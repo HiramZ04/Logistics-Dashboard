@@ -8,9 +8,9 @@ This tab tracks API bandwidth usage to control and reduce costs, providing insig
 
 By understanding and managing bandwidth usage, this tab directly supports cost savings and more efficient API resource planning.
 
+
 ## 🎥 Demo - API Bandwidth Consumption
 
-<video src="API Bandwidth Tab.mp4" controls width="600"></video>
-
+[![Watch the video](Dashboard%20Screenshots/API%20Bandwidth%20Tab%20Screenshot.png)](https://youtu.be/0fhfkhEoZoY)
 
 
