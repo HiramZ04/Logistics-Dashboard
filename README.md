@@ -9,7 +9,7 @@ On the technical side, this project required significant data cleaning, dealing 
 
 ## 🚚 Inbound Shipments (Example Tab)
 
-![Inbound Shipments Screenshot](Dashboard%20Screenshots/Inbound%20Shipments%20GIF.gif)
+![Inbound Shipments Screenshot](Dashboard%20Screenshots/ReadmeGIF.gif)
 
 ---
 
