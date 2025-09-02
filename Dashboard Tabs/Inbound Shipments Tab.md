@@ -15,4 +15,4 @@ By visualizing and tracking these metrics, warehouse leadership can quickly iden
 
 ## 🎥 Demo (YouTube) - Inbound Shipments 
 
-[![Watch the video](Dashboard%20Screenshots/Inbound%20Shipments%20Tab%20Screenshot.png)](https://youtu.be/64LB46cPRTQ)
+[![Watch the video](/Dashboard%20Screenshots/Inbound%20Shipments%20Tab%20Screenshot.png)](https://youtu.be/64LB46cPRTQ)

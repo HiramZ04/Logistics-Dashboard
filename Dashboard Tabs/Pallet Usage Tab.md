@@ -12,6 +12,6 @@ By linking storage trends to sales performance and customer activity, this tab h
 
 ## 🎥 Demo (YouTube) - Pallet Usage 
 
-[![Watch the video](Dashboard%20Screenshots/Pallet%20Usage%20Tab%20Screenshot.png)](https://youtu.be/SXEyqJTE2Fo)
+[![Watch the video](/Dashboard%20Screenshots/Pallet%20Usage%20Tab%20Screenshot.png)](https://youtu.be/SXEyqJTE2Fo)
 
 

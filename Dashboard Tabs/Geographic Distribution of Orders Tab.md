@@ -10,4 +10,4 @@ This tab gives a clear geographic view of where orders are shipped, helping opti
 
 ## 🎥 Demo (YouTube) - Geographic Distribution of Orders
 
-[![Watch the video](Dashboard%20Screenshots/Map%20Orders%20Tab%20Screenshot.png)](https://youtu.be/7fx8Pbv1esQ)
+[![Watch the video](/Dashboard%20Screenshots/Map%20Orders%20Tab%20Screenshot.png)](https://youtu.be/7fx8Pbv1esQ)

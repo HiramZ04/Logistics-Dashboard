@@ -11,6 +11,6 @@ By understanding and managing bandwidth usage, this tab directly supports cost s
 
 ## 🎥 Demo (YouTube) - API Bandwidth Consumption
 
-[![Watch the video](Dashboard%20Screenshots/API%20Bandwidth%20Tab%20Screenshot.png)](https://youtu.be/0fhfkhEoZoY)
+[![Watch the video](/Dashboard%20Screenshots\API%20Bandwidth%20Tab%20Screenshot.png)](https://youtu.be/0fhfkhEoZoY)
 
 

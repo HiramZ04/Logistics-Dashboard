@@ -16,6 +16,6 @@ This tab ensures SLA adherence, protects profitability, and enables fast decisio
 
 ## 🎥 Demo (YouTube) - Business KPIs
 
-[![Watch the video](Dashboard%20Screenshots/Business%20KPIs%20Tab%20Screnshot.png)](https://youtu.be/FTNQjMHFVyg)
+[![Watch the video](/Dashboard%20Screenshots/Business%20KPIs%20Tab%20Screnshot.png)](https://youtu.be/FTNQjMHFVyg)
 
 

@@ -13,6 +13,6 @@ From a technical perspective, this dashboard overcame the challenge of merging t
 
 ## 🎥 Demo (YouTube) - Shipped Orders Processed 
 
-[![Watch the video](Dashboard%20Screenshots/Orders%20Shipped%20Tab%20Screenshot.png)](https://youtu.be/_GKGZqYdJ_0)
+[![Watch the video](/Dashboard%20Screenshots/Orders%20Shipped%20Tab%20Screenshot.png)](https://youtu.be/_GKGZqYdJ_0)
 
 
