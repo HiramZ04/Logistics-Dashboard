@@ -5,6 +5,7 @@ The **Logistics Dashboard** is a real-world data project built to address a comp
 
 On the technical side, this project required significant data cleaning, dealing with incomplete/multi-source datasets, merging data, gathering information from APIs, and implementing incremental calls for automation. It also included building new metrics with integrity, sometimes deploying small apps to support reporting.
 
+This project is only for visualization no source code available and all data is self generated.
 ---
 
 ## 🚚 Inbound Shipments (Example Tab)
@@ -61,20 +62,13 @@ This dashboard provided **tangible impact** to logistics operations:
 
 ---
 
-## ⚙️ How to Use
-1. Download the PBIX file in Power BI Desktop (pbix/Logistics Dashboard.pbix)
-2. Open the PBIX file in Power BI Desktop:
-3. Load dummy data located in (Dummy Data/)
-4. Create your own data source with the dummy data you downloaded 
-5. It should be fine, you can now see the dashboard or USE the dashboard template to make it better 
+
 
 ## 📂 Folder Structure
 
 ```text
 Logistics-Dashboard/
 ├─ README.md                   # Main documentation
-├─ pbix/                       # Power BI file
-│  └─ Logistics Dashboard.pbix
 ├─ Dashboard Screenshots/      # Screenshots for each tab
 │  ├─ API Bandwidth Tab Screenshot.png
 │  ├─ Business KPIs Tab Screenshot.png
